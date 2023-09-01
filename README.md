@@ -6,8 +6,7 @@
 
 <div align="center">
 
-## **Hey, Itz Doruk**
-##### ***-- DORUK AYSOR --***
+## **Doruk Aysor**
 
 </div>
 
@@ -109,7 +108,6 @@ if (currentDate < targetDate) {
 <div align="center">
 
 #### **✨ • Thanks For Visiting • ✨**
-###### **Thank you**
 
 </div>
 
