@@ -99,7 +99,7 @@ if (currentDate < targetDate) {
 
 <h3 align="left">☕ • Check My Portfolio</h3>
 
-[![Portfolio](https://img.shields.io/badge/Unpublished-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://www.profile.dorukaysor.work.gd/__cover/)
+[![Portfolio](https://img.shields.io/badge/Unpublished-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://dorukaysor.github.io/DorukAysor/portfolio/)
 
 </div>
 
