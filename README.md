@@ -40,7 +40,6 @@ changeBase();
 
 let work = 
    [
-      "stock & trading consultancy",
       "backend developer",
       "web developer",
       "graphics & ui/ux designer"
@@ -58,26 +57,6 @@ var languages =
      "HTML & XML", "CSS", "Bootstrap",
      "React Native", "Vue", "TailWind CSS"
    ];
-
-```
-> ✨ • Goals for 2023:
-```js
-
-const goals =
-   [
-      "create 150+ projects",
-      "learn 4 new languages"
-   ];
-
-const currentDate = new Date();
-
-const targetDate = new Date('December 31, 2023');
-
-if (currentDate < targetDate) {
-  console.log(`You still have time to complete ${goals}`);
-} else {
-  console.log(`Time's up! You missed your chance to complete ${goals} by this year.\nBetter luck next year!`);
-}
 
 ```
 
@@ -99,7 +78,7 @@ if (currentDate < targetDate) {
 
 <h3 align="left">☕ • Check My Portfolio</h3>
 
-[![Portfolio](https://img.shields.io/badge/Unpublished-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://dorukaysor.github.io/DorukAysor/portfolio/)
+[![Portfolio](https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://dorukaysor.github.io/DorukAysor/portfolio/)
 
 </div>
 
