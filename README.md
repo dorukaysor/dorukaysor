@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## **Doruk Aysor**
+## **Hey There, It's Doruk**
 
 </div>
 
@@ -78,7 +78,7 @@ var languages =
 
 <h3 align="left">☕ • Check My Portfolio</h3>
 
-[![Portfolio](https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://dorukaysor.github.io/DorukAysor/portfolio/)
+[![Portfolio](https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://dorukaysor.github.io/dorukaysor/aviour/)
 
 </div>
 
