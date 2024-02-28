@@ -24,9 +24,7 @@ Hey There!!
 <div align="center">
 
 ```
-
-Oh Hello, Myself Doruk Aysor
-
+Doruk Aysor
 ```
 
 </div>
