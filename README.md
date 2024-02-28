@@ -1,73 +1,51 @@
-<p align="center">
+<br>
 
-  [![Header Gradient](https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&color=gradient&section=header)](https://github.com/DorukAysor/)
+<h3 align="center">
 
-</p>
+<img align="left" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="68">
+Hey There!!
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="68">
 
+</h2>
+
+- - - -
+
+<br>
 <div align="center">
 
-## **Hey There, It's Doruk**
+[![Spotify Integration](https://spotify-github-profile.vercel.app/api/view?uid=6e4teps64skwfesh8uyapsgze&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6e4teps64skwfesh8uyapsgze&redirect=true)
 
 </div>
+<br>
 
-### **🎧 • Recently Played:**
+- - - -
 
+<br>
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6e4teps64skwfesh8uyapsgze&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6e4teps64skwfesh8uyapsgze&redirect=true)
+```ruby
 
-</div>
-
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-### ☕ • About Me
-```js
-
-const origin = "Istanbul, Turkey";
-
-(async function changeBase() => {
-   echo "based in:";
-   let base.loc: string = "Odisha, India";
-   if (base.loc === origin) {
-      base.loc: string = "Istanbul, Turkey";
-   } else { return console.log(undefined) };
-};
-
-changeBase();
+Oh Hello, Myself 'Doruk Aysor'
 
 ```
 
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-<div align="center">
-
-  <h3 align="left">✨ • Connect Me</h3>
-
-[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://user-images.githubusercontent.com/112493972/232122947-9a9333b2-0bb3-4be4-9295-9317fae4c453.png)
-[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/doruk_aysor)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/doruk_aysor?igshid=YmMyMTA2M2Y=)
-
 </div>
+<br>
 
-- - - - - - - - - - - - - - - - - - - - - - - - -
+- - - -
 
-<div align="center">
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
-<h3 align="left">☕ • Check My Portfolio</h3>
+```
+As a professional backend developer with a background in stock market management, I have a strong interest in the intersection of technology and finance. My experience in backend development allows me to create efficient and scalable systems for managing stock market data. I am always eager to learn new technologies and strategies to enhance my skills and contribute to the growth of the stock market management field.
+```
+<br>
+<br>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://dorukaysor.github.io/dorukaysor/site/aviour/)
+- - - -
 
-</div>
-
-- - - - - - - - - - - - - - - - - - - - - - - - -
-
-<div align="center">
-
-#### **✨ • Thanks For Visiting • ✨**
-
-</div>
-
-<p align="left">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br>
+<img align="center" >
+<br>
