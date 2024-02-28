@@ -35,30 +35,6 @@ const origin = "Istanbul, Turkey";
 changeBase();
 
 ```
-> 🧰 • Work:
-```js
-
-let work = 
-   [
-      "backend developer",
-      "web developer",
-      "graphics & ui/ux designer"
-   ];
-
-```
-> 📚 • Education:
-```js
-
-var school.grade = "higher secondary";
-
-var languages =
-   [
-     "Javascript & it's runtimes", "Python",
-     "HTML & XML", "CSS", "Bootstrap",
-     "React Native", "Vue", "TailWind CSS"
-   ];
-
-```
 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 
