@@ -88,7 +88,7 @@ Hey There!!
 
 You have come this far... Kinda check my websie...
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500">
+<a href="https://dorukaysor.github.io/dorukaysor/site/avour/"><img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500"></a>
 
 </div>
 <br>
@@ -98,7 +98,7 @@ You have come this far... Kinda check my websie...
 <br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=THANK+YOU;THANKS+FOR+VISITING;COME+AGAIN;SEE+YAWH+SOON;HAVE+A+NICE+DAY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=THANK+YOU;THANKS+FOR+VISITING;COME+AGAIN;SEE+YAWH+SOON;HAVE+A+NICE+DAY)](https://dorukaysor.github.io/page-not-found/)
 
 </div>
 <br>
