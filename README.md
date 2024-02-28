@@ -23,9 +23,7 @@ Hey There!!
 <br>
 <div align="center">
 
-```
-Doruk Aysor
-```
+```Doruk Aysor```
 
 </div>
 <br>
