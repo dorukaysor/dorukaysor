@@ -32,6 +32,7 @@ const origin = "Istanbul, Turkey";
       base.loc: string = "Istanbul, Turkey";
    } else { return console.log(undefined) };
 };
+
 changeBase();
 
 ```
