@@ -88,7 +88,7 @@ Hey There!!
 
 You have come this far... Kinda check my websie...
 
-<a href="https://dorukaysor.github.io/dorukaysor/site/avour/"><img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500"></a>
+<a href="https://dorukaysor.github.io/dorukaysor/site/aviour/"><img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500"></a>
 
 </div>
 <br>
