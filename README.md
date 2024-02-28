@@ -3,9 +3,7 @@
 <h3 align="center">
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="68">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=HELLO+THERE;WELCOME)](https://git.io/typing-svg)
-
+Hey There!!
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="68">
 
 </h2>
