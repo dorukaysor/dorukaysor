@@ -21,9 +21,11 @@ Hey There!!
 - - - -
 
 <br>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=DORUK+AYSOR;WEB+DEVELOPER;GRAPHICS+DESIGNER)](https://git.io/typing-svg)
 
+</div>
 
 - - - -
 
