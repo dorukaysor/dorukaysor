@@ -23,11 +23,7 @@ Hey There!!
 <br>
 <div align="center">
 
-```ruby
-
-Oh Hello, Myself 'Doruk Aysor'
-
-```
+``` Oh Hello, Myself Doruk Aysor ```
 
 </div>
 <br>
