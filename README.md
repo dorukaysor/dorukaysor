@@ -24,7 +24,7 @@ Hey There!!
 <br>
 <div align="center">
 
-[![Spotify Integration](https://spotify-github-profile.vercel.app/api/view?uid=6e4teps64skwfesh8uyapsgze&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6e4teps64skwfesh8uyapsgze&redirect=true)
+[![Spotify Integration]()]()
 
 </div>
 <br>
