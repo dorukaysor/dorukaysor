@@ -1,21 +1,21 @@
 <br>
 
-<h3 align="center">
+<h3 align="center" font="Montserrat">
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="68">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="60">
 Hey There!!
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="68">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="60">
 
-</h2>
+<img src="https://jojoee.jojoee.com/api/utcnowgif?utcnow" alt="current_utc">
+
+</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=DORUK+AYSOR;WEB+DEVELOPER;GRAPHICS+DESIGNER)](https://dorukaysor.github.io/page-not-found/)
-
-![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=DORUK+AYSOR;WEB+DEVELOPER;GRAPHICS+DESIGNER)](https://dorukaysor.github.io/page-not-found/)
 
 </div>
 
