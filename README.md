@@ -34,7 +34,7 @@ Hey There!!
 <br>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="70%">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
 </div>
 <br>
@@ -45,10 +45,10 @@ Hey There!!
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
-<a href="https://dorukaysor.github.io/page-not-found/"><img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="50%"></a>
-<a href="https://dorukaysor.github.io/page-not-found/"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50%"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img align="center" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img align=left src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50%"></a>
 <a href="https://dorukaysor.github.io/page-not-found/"><img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="50%"></a>
-<a href="https://dorukaysor.github.io/page-not-found/"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="50%"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%"></a>
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Hey There!!
 <br>
 <div align="center">
 
-You have come this far... Kinda check my websie...
+You have come this far! Kinda check my websie...
 
 <a href="https://dorukaysor.github.io/dorukaysor/site/aviour/"><img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500"></a>
 
@@ -97,7 +97,6 @@ You have come this far... Kinda check my websie...
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=THANK+YOU;THANKS+FOR+VISITING;COME+AGAIN;SEE+YAWH+SOON;HAVE+A+NICE+DAY)](https://dorukaysor.github.io/page-not-found/)
