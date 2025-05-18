@@ -6,7 +6,7 @@
 Hey There!!
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="60">
 
-<a href="https://dorukaysor.github.io/page-not-found/?re=aHR0cHM6Ly9naXRodWIuY29tL2RvcnVrYXlzb3IvZG9ydWtheXNvci8="><img src="https://jojoee.jojoee.com/api/utcnowgif?utcnow" alt="current_utc"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img src="https://jojoee.jojoee.com/api/utcnowgif?utcnow" alt="current_utc"></a>
 
 </h3>
 
@@ -15,7 +15,7 @@ Hey There!!
 <br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=DORUK+AYSOR;WEB+DEVELOPER;GRAPHICS+DESIGNER)](https://dorukaysor.github.io/page-not-found/?re=aHR0cHM6Ly9naXRodWIuY29tL2RvcnVrYXlzb3IvZG9ydWtheXNvci8=)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=0&center=true&vCenter=true&random=true&width=435&lines=DORUK+AYSOR)](https://dorukaysor.github.io/page-not-found/)
 
 </div>
 
@@ -45,16 +45,16 @@ Hey There!!
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
-<a href="https://dorukaysor.github.io/page-not-found/?re=aHR0cHM6Ly9naXRodWIuY29tL2RvcnVrYXlzb3IvZG9ydWtheXNvci8="><img align="center" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%"></a>
-<a href="https://dorukaysor.github.io/page-not-found/?re=aHR0cHM6Ly9naXRodWIuY29tL2RvcnVrYXlzb3IvZG9ydWtheXNvci8="><img align=left src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50%"></a>
-<a href="https://dorukaysor.github.io/page-not-found/?re=aHR0cHM6Ly9naXRodWIuY29tL2RvcnVrYXlzb3IvZG9ydWtheXNvci8="><img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="50%"></a>
-<a href="https://dorukaysor.github.io/page-not-found/?re=aHR0cHM6Ly9naXRodWIuY29tL2RvcnVrYXlzb3IvZG9ydWtheXNvci8="><img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img align="center" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img align=left src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50%"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="50%"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%"></a>
 
 <div align="center">
 
 <a href="https://discordapp.com/users/1022125906321473628"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100px"></a>
-<a href="https://dorukaysor.github.io/page-not-found/?re=aHR0cHM6Ly9naXRodWIuY29tL2RvcnVrYXlzb3IvZG9ydWtheXNvci8="><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100px"></a>
-<a href="https://dorukaysor.github.io/page-not-found/?re=aHR0cHM6Ly9naXRodWIuY29tL2RvcnVrYXlzb3IvZG9ydWtheXNvci8="><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100px"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100px"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100px"></a>
 
 </div>
 <br>
@@ -64,7 +64,7 @@ Hey There!!
 <br>
 <div align="center">
 
-<a href="https://dorukaysor.github.io/page-not-found/?re=aHR0cHM6Ly9naXRodWIuY29tL2RvcnVrYXlzb3IvZG9ydWtheXNvci8="><img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="90%"></a>
+<a href="https://dorukaysor.github.io/page-not-found/"><img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="90%"></a>
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="90">
