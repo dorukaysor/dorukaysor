@@ -38,7 +38,7 @@ Hey There!!
 
 </div>
 <br>
-<p align="center">As a professional backend developer with a background in stock market management, I have a strong interest in the intersection of technology and finance. My experience in backend development allows me to create efficient and scalable systems for managing stock market data. I am always eager to learn new technologies and strategies to enhance my skills and contribute to the growth of the stock market management field.</p>
+<p align="center">A professional Full-Stack Developer, focused on building scalable systems at the tech-finance intersection. Always learning to Improve and Innovate in Market Management, and the Production.</p>
 
 <br>
 
