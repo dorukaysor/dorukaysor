@@ -24,7 +24,7 @@ Hey There!!
 <br>
 <div align="center">
 
-[![Spotify Integration]()]()
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?layout=zues&quoteCategory=programming)
 
 </div>
 <br>
