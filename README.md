@@ -1,14 +1,5 @@
 <br>
 
-<h3 align="center" font="Montserrat">
-
-<a href="https://dorukaysor.github.io/page-not-found/"><img src="https://jojoee.jojoee.com/api/utcnowgif?utcnow" alt="current_utc"></a>
-
-</h3>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=0&center=true&vCenter=true&random=true&width=435&lines=DORUK+AYSOR)](https://dorukaysor.github.io/page-not-found/)
