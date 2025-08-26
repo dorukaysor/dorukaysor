@@ -2,10 +2,6 @@
 
 <h3 align="center" font="Montserrat">
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="60">
-Hey There!!
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="60">
-
 <a href="https://dorukaysor.github.io/page-not-found/"><img src="https://jojoee.jojoee.com/api/utcnowgif?utcnow" alt="current_utc"></a>
 
 </h3>
