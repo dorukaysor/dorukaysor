@@ -1,17 +1,20 @@
 <br>
 
 <div align=center>
-<p>Hello There</p>
-<h2>It's Doruk</h2>
-</div>
-
+<p>Hello</p>
+<h2>-  I AM DORUK  -</h2>
 <br>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
+<div align=center>
+
 ![Readme Quotes](https://github-readme-quotes-bay.vercel.app/quote?theme=default_repocard&animation=default&layout=samuel&font=default&quoteType=random&bgColor=black&fontColor=white)
+
+</div>
 
 <br>
 
