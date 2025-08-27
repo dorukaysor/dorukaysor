@@ -1,8 +1,5 @@
 <div align=center>
-### DORUK AYSOR • 
-[![Discord Icon](https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif?width=40px)](https://discordapp.com/users/1022125906321473628)
-
-<a href="https://discordapp.com/users/1022125906321473628"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px" alt="discord-icon"></a>
+<h2>DORUK AYSOR • <a href="https://discordapp.com/users/1022125906321473628"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px" alt="discord-icon"></a></h2>
 </div>
 
 > A **Full-Stack Developer**, focused on
