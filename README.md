@@ -1,14 +1,10 @@
 <div align=center>
-<h2>DORUK AYSOR •<h2> <a href="https://discordapp.com/users/1022125906321473628"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px" alt="discord-icon"></a>
+<h2>DORUK AYSOR • <h2><a href="https://discordapp.com/users/1022125906321473628"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px" alt="discord-icon"></a>
 </div>
 
 > A **Full-Stack Developer**, focused on
 building scalable systems at the
 tech-finance intersection
-
-<div align=center>
-<a href="https://discordapp.com/users/1022125906321473628"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px" alt="discord-icon"></a>
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 
