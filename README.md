@@ -12,7 +12,7 @@
 </div>
 
 <div>
-<img align=left src="https://private-user-images.githubusercontent.com/74038190/240820264-31edfb91-6645-4b85-b273-b5280b342e0b.gif" width="40%">
+<img align=left src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="40%">
 
 <p align=right>A **Full-Stack Developer**, focused on
 building scalable systems at the
