@@ -8,6 +8,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4e43-9e07-7f6c3f6b5e91.gif" width="400"/>
+</p>
+
 <br>
 
 <div align=center>
