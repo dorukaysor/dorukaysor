@@ -18,7 +18,7 @@ tech-finance intersection
 
 ### Some of my basics:
 
-### **<img src="https://cdn.simpleicons.org/javascript/000/fff" width="40"/> Languages**
+### **<img src="https://cdn.simpleicons.org/javascript/000/fff" width="20"/> Languages**
 
 > [![javascript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=flat-square&logo=javascript&logoColor=f7df1e)](#)
 [![typescript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=flat-square&logo=typescript&logoColor=3178C6)](#)
@@ -30,7 +30,7 @@ tech-finance intersection
 [![crystal](https://img.shields.io/badge/Crystal-%23000000.svg?style=flat-square&logo=crystal&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%23000000.svg?style=flat-square&logo=go&logoColor=%2300add8.svg)](#)
 
-### **[icon] Frameworks**
+### **<img src="https://cdn.simpleicons.org/framework/000/fff" width="20"/> Frameworks**
 > **WEB & MOBILE DEV**
 > > [![nodejs](https://img.shields.io/badge/Node.js-%23000000.svg?style=flat-square&logo=node.js&logoColor=6da55f)](#)
 [![svelte](https://img.shields.io/badge/Svelte-%23000000.svg?style=flat-square&logo=svelte&logoColor=%23f1413d.svg)](#)
@@ -57,7 +57,7 @@ tech-finance intersection
 [![numpy](https://img.shields.io/badge/NumPy-%23000000.svg?style=flat-square&logo=numpy&logoColor=4dabcf)](#)
 [![matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-%23000000.svg?style=flat-square&logo=matplotlib&logoColor=71d291)](#)
 
-### **[icon] Tools**
+### **<img src="https://cdn.simpleicons.org/mongoose/000/fff" width="20"/> Tools**
 > **VERSION CONTROL**
 > > [![git](https://img.shields.io/badge/Git-%23000000.svg?style=flat-square&logo=git&logoColor=F05032)](#)
 [![github](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat-square&logo=github&logoColor=%23121011.svg)](#)
