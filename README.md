@@ -31,7 +31,7 @@ tech-finance intersection
 [![Go](https://img.shields.io/badge/Go-%23000000.svg?style=flat-square&logo=go&logoColor=%2300add8.svg)](#)
 
 ### **[icon] Frameworks**
-> - **Web & Mobile Development**
+> **WEB & MOBILE DEV**
 > > [![nodejs](https://img.shields.io/badge/Node.js-%23000000.svg?style=flat-square&logo=node.js&logoColor=6da55f)](#)
 [![svelte](https://img.shields.io/badge/Svelte-%23000000.svg?style=flat-square&logo=svelte&logoColor=%23f1413d.svg)](#)
 [![nextjs](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)](#)
@@ -40,7 +40,8 @@ tech-finance intersection
 [![react native](https://img.shields.io/badge/React_Native-%23000000.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](#)
 [![flutter](https://img.shields.io/badge/Flutter-%23000000.svg?style=flat-square&logo=flutter&logoColor=02569B)](#)
 [![threejs](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=threedotjs&logoColor=fff)](#)
-> - **Backend & Server-side**
+
+> **SERVER-SIDE**
 > > [![django](https://img.shields.io/badge/Django-%23000000.svg?style=flat-square&logo=django&logoColor=fff)](#)
 [![flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=fff)](#)
 [![ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-%23000000.svg?style=flat-square&logo=ruby-on-rails&logoColor=CC0000)](#)
@@ -48,7 +49,8 @@ tech-finance intersection
 [![nestjs](https://img.shields.io/badge/Nest.js-%23000000.svg?style=flat-square&logo=nestjs&logoColor=E0234E)](#)
 [![fast api](https://img.shields.io/badge/FastAPI-%23000000.svg?style=flat-square&logo=fastapi&logoColor=009485.svg)](#)
 [![laravel](https://img.shields.io/badge/Laravel-%23000000.svg?style=flat-square&logo=laravel&logoColor=%23FF2D20.svg)](#)
-> - **AI/ML & Data**
+
+> **AI/ML & DATA**
 > > [![tensorflow](https://img.shields.io/badge/TensorFlow-%23000000.svg?style=flat-square&logo=tensorflow&logoColor=ff8f00)](#)
 [![pytorch](https://img.shields.io/badge/PyTorch-%23000000.svg?style=flat-square&logo=pytorch&logoColor=ee4c2c)](#)
 [![pandas](https://img.shields.io/badge/Pandas-%23000000.svg?style=flat-square&logo=pandas&logoColor=150458)](#)
@@ -56,27 +58,31 @@ tech-finance intersection
 [![matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-%23000000.svg?style=flat-square&logo=matplotlib&logoColor=71d291)](#)
 
 ### **[icon] Tools**
-> - **Version Control**
+> **VERSION CONTROL**
 > > [![git](https://img.shields.io/badge/Git-%23000000.svg?style=flat-square&logo=git&logoColor=F05032)](#)
 [![github](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat-square&logo=github&logoColor=%23121011.svg)](#)
 [![gitlab](https://img.shields.io/badge/GitLab-%23000000.svg?style=flat-square&logo=gitlab&logoColor=FC6D26)](#)
 [![bitbucket](https://img.shields.io/badge/Bitbucket-%23000000.svg?style=flat-square&logo=bitbucket&logoColor=0052CC)](#)
-> - **Testing**
+
+> **TESTING**
 > > [![jest](https://img.shields.io/badge/Jest-%23000000.svg?style=flat-square&logo=jest&logoColor=C21325)](#)
 [![mocha](https://img.shields.io/badge/Mocha-%23000000.svg?style=flat-square&logo=mocha&logoColor=8D6748)](#)
 [![selenium](https://img.shields.io/badge/Selenium-%23000000.svg?style=flat-square&logo=selenium&logoColor=43B02A)](#)
-> - **Database**
+
+> **DATABASE**
 >  > [![postgresql](https://img.shields.io/badge/Postgres-%23000000.svg?style=flat-square&logo=postgresql&logoColor=%23316192.svg)](#)
 [![mongodb](https://img.shields.io/badge/MongoDB-%23000000.svg?style=flat-square&logo=mongodb&logoColor=%234ea94b.svg)](#)
 [![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle-%23000000.svg?style=flat-square&logo=oracle&logoColor=F80000)](#)
 [![cassandra](https://img.shields.io/badge/Cassandra-%23000000.svg?style=flat-square&logo=apache-cassandra&logoColor=%231287B1)](#)
-> - **DevOps & Infra**
+
+> **DEVOPS & INFRA**
 >  > [![docker](https://img.shields.io/badge/Docker-%23000000.svg?style=flat-square&logo=docker&logoColor=2496ED)](#)
 [![kubernetes](https://img.shields.io/badge/Kubernetes-%23000000.svg?style=flat-square&logo=kubernetes&logoColor=326CE5)](#)
 [![jenkins](https://img.shields.io/badge/Jenkins-%23000000.svg?style=flat-square&logo=jenkins&logoColor=D24939)](#)
 [![github actions](https://img.shields.io/badge/GitHub_Actions-%23000000.svg?style=flat-square&logo=github-actions&logoColor=2088FF)](#)
 [![terraform](https://img.shields.io/badge/Terraform-%23000000.svg?style=flat-square&logo=terraform&logoColor=844FBA)](#)
-> - **Cloud Providers**
+
+> **CLOUD PROVIDERS**
 >  > [![microsoft azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-%23000000.svg?style=flat-square&logo=msazure&logoColor=0089D6)](#)
 [![netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=00C7B7)](#)
 [![digital ocean](https://img.shields.io/badge/DigitalOcean-%23000000.svg?style=flat-square&logo=digitalOcean&logoColor=%230167FF.svg)](#)
