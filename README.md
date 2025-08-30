@@ -1,5 +1,7 @@
 <div align=center>
-<h2><b>Doruk Aysor</b></h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=40&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=DORUK+AYSOR)](https://github.com/dorukaysor/)
+
 </div>
 
 > A **Full-Stack Developer**, focused on
