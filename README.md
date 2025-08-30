@@ -18,7 +18,7 @@ tech-finance intersection
 
 ### Some of my basics:
 
-### **[icon] Languages**
+### **<img src="https://cdn.simpleicons.org/javascript/000/fff" width="40"/> Languages**
 
 > [![javascript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=flat-square&logo=javascript&logoColor=f7df1e)](#)
 [![typescript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=flat-square&logo=typescript&logoColor=3178C6)](#)
