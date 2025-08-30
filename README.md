@@ -57,7 +57,7 @@ tech-finance intersection
 [![numpy](https://img.shields.io/badge/NumPy-%23000000.svg?style=flat-square&logo=numpy&logoColor=4dabcf)](#)
 [![matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-%23000000.svg?style=flat-square&logo=matplotlib&logoColor=71d291)](#)
 
-### **<img src="https://cdn.simpleicons.org/mongoose/000/fff" width="20"/> Tools**
+### **<img src="https://cdn.simpleicons.org/mongoosedotws/000/fff" width="20"/> Tools**
 > **VERSION CONTROL**
 > > [![git](https://img.shields.io/badge/Git-%23000000.svg?style=flat-square&logo=git&logoColor=F05032)](#)
 [![github](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat-square&logo=github&logoColor=%23121011.svg)](#)
