@@ -16,7 +16,7 @@ tech-finance intersection
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 
-### Some of my basics:
+<p align=center><b>Some of my basics</b></p>
 
 ### **<img src="https://cdn.simpleicons.org/javascript/000/fff" width="20"/> Languages**
 
