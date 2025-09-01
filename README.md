@@ -22,7 +22,7 @@ tech-finance intersection
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=30&duration=3000&pause=3000&color=FFFFFF&repeat=false&center=true&vCenter=true&width=435&lines=SOME+OF+MY+BASICS)](#)
 
-</b></p>
+</p>
 
 ### **<img src="https://cdn.simpleicons.org/javascript/000/fff" width="20"/> Languages**
 
