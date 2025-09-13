@@ -109,6 +109,6 @@ tech-finance intersection
 
 [![Cozy Programming](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)](./)
 
-[![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23000000.svg?style=flat-square&logo=buymeacoffee&logoColor=FFDD00)](#)
+[![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23000000.svg?style=square&logo=buymeacoffee&logoColor=FFDD00)](#)
 
 </div>
