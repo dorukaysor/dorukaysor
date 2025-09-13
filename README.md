@@ -99,6 +99,12 @@ tech-finance intersection
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snk-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snk-light.svg" />
+  <img alt="github-snake" src="snk-dark.svg" />
+</picture>
+
 [![Cozy Programming](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)](./)
 
 [![Cute Fast Runners](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)](./)
