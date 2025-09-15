@@ -102,7 +102,7 @@ tech-finance intersection
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snk-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="snk-light.svg" />
-  <img alt="github-snake" src="snk-dark.svg" />
+  <img alt="github-snake" src="snk-dark.svg" width="70%"/>
 </picture>
 
 <br>
