@@ -8,19 +8,20 @@
 building scalable systems at the
 tech-finance intersection
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-
-<div align=center>
-
-![Readme Quotes](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=random&bgColor=black&fontColor=white&borderColor=white)
-
+<div>
+  <picture align=right>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=quote-for-the-day&bgColor=black&fontColor=white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=quote-for-the-day&bgColor=white&fontColor=black" />
+    <img alt="quote_card" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=quote-for-the-day&bgColor=black&fontColor=white" width="50%"/>
+  </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+---
+<br>
 
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=30&duration=3000&pause=3000&color=FFFFFF&repeat=false&center=true&vCenter=true&width=435&lines=SOME+OF+MY+BASICS)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=30&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=SOME+OF+MY+BASICS)](#)
 
 </div>
 
@@ -94,8 +95,7 @@ tech-finance intersection
 [![digital ocean](https://img.shields.io/badge/DigitalOcean-%23000000.svg?style=flat-square&logo=digitalOcean&logoColor=%230167FF.svg)](#)
 [![heroku](https://img.shields.io/badge/Heroku-%23000000.svg?logo=heroku&logoColor=430098)](#)
 [![vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=%23000000.svg)](#)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+---
 
 <div align="center">
 
@@ -107,9 +107,7 @@ tech-finance intersection
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"> <br/>
-
-[![Cozy Programming](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)](./)
+---
 
 [![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23000000.svg?style=square&logo=buymeacoffee&logoColor=FFDD00)](#)
 
