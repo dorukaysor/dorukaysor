@@ -8,11 +8,11 @@
 building scalable systems at the
 tech-finance intersection
 
-<div align=right>
+<div align=center>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=quote-for-the-day&bgColor=black&fontColor=white" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=quote-for-the-day&bgColor=white&fontColor=black" />
-    <img alt="quote_card" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=quote-for-the-day&bgColor=black&fontColor=white" width="50%"/>
+    <img alt="quote_card" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=quote-for-the-day&bgColor=black&fontColor=white" width="60%"/>
   </picture>
 </div>
 
