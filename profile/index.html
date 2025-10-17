@@ -10,11 +10,32 @@
     />
     <meta name="author" content="dorukaysor" />
 
+    <!-- Performance Optimization Meta Tags -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
     <title>Bernard | Home</title>
 
-    <!-- Preconnect to Google Fonts -->
+    <!-- Critical Resource Hints -->
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Preload Critical CSS -->
+    <link rel="preload" href="./core/css/main.css" as="style" />
+    <link rel="preload" href="./core/preloader/style.css" as="style" />
+
+    <!-- Preload Critical JavaScript -->
+    <link rel="preload" href="./core/preloader/preloader.js" as="script" />
+    <link rel="preload" href="./core/js/main.js" as="script" />
 
     <!-- Google Fonts -->
     <link
@@ -26,7 +47,15 @@
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      media="print"
+      onload="this.media='all'"
     />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      />
+    </noscript>
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="./core/css/main.css" />
@@ -35,10 +64,10 @@
     <link rel="stylesheet" href="./core/preloader/style.css" />
 
     <!-- Custom Alert CSS -->
-    <link rel="stylesheet" href="./core/extras/no.css" />
+    <link rel="stylesheet" href="./core/extras/no.css" media="print" onload="this.media='all'" />
 
     <!-- Custom Cursor CSS -->
-    <link rel="stylesheet" href="./core/extras/cursor.css" />
+    <link rel="stylesheet" href="./core/extras/cursor.css" media="print" onload="this.media='all'" />
 
     <!-- Favicon and App Icons -->
     <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg" />
@@ -379,6 +408,9 @@
                     src="./assets/images/project1.jpg"
                     alt="Project 1"
                     loading="lazy"
+                    decoding="async"
+                    width="400"
+                    height="250"
                   />
                 </div>
                 <div class="card__body">
@@ -411,6 +443,9 @@
                     src="./assets/images/project2.jpg"
                     alt="Project 2"
                     loading="lazy"
+                    decoding="async"
+                    width="400"
+                    height="250"
                   />
                 </div>
                 <div class="card__body">
@@ -443,6 +478,10 @@
                     src="./assets/images/project3.jpg"
                     alt="Project 3"
                     loading="lazy"
+                    decoding="async"
+                    width="400"
+                    height="250"
+                  />
                   />
                 </div>
                 <div class="card__body">
@@ -582,12 +621,37 @@
     <script src="./core/preloader/preloader.js"></script>
 
     <!-- JavaScript -->
-    <script src="./core/js/main.js"></script>
+    <script src="./core/js/main.js" defer></script>
 
     <!-- Custom Alert System -->
-    <script src="./core/extras/no.js"></script>
+    <script src="./core/extras/no.js" defer></script>
 
     <!-- Custom Cursor System -->
-    <script src="./core/extras/cursor.js"></script>
+    <script src="./core/extras/cursor.js" defer></script>
+
+    <!-- Performance Monitoring -->
+    <script>
+      // Performance monitoring
+      window.addEventListener('load', function() {
+        if ('performance' in window) {
+          const perfData = performance.getEntriesByType('navigation')[0];
+          const loadTime = perfData.loadEventEnd - perfData.loadEventStart;
+          console.log(`Page load time: ${loadTime}ms`);
+        }
+      });
+
+      // Service Worker Registration
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('./sw.js')
+            .then(function(registration) {
+              console.log('SW registered: ', registration);
+            })
+            .catch(function(registrationError) {
+              console.log('SW registration failed: ', registrationError);
+            });
+        });
+      }
+    </script>
   </body>
 </html>
