@@ -560,6 +560,172 @@ p {
   margin: 0;
 }
 
+/* Skills Carousel Belt */
+.skills-carousel-container {
+  margin-top: 3rem;
+  position: relative;
+  overflow: hidden;
+  height: 180px;
+  width: 100%;
+  left: 0;
+}
+
+.skills-carousel-belt {
+  display: flex;
+  gap: 1.5rem;
+  animation: scroll-belt-infinite 32s linear infinite;
+  width: max-content;
+  padding: 1rem 0;
+  will-change: transform;
+}
+
+.skill-card {
+  flex: 0 0 180px;
+  height: 140px;
+  background: var(--card-bg);
+  border-radius: 1rem;
+  border: 1px solid var(--border-color);
+  padding: 1.5rem;
+  text-align: center;
+  position: relative;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  overflow: hidden;
+  will-change: transform;
+}
+
+.skill-card::before {
+  /* Disabled for better performance */
+  display: none;
+}
+
+.skill-card:hover {
+  transform: scale(1.03);
+  border-color: var(--primary-color);
+  box-shadow: 0 4px 20px rgba(37, 99, 235, 0.2);
+  z-index: 10;
+}
+
+.skill-card__icon {
+  font-size: 2.2rem;
+  margin-bottom: 0.6rem;
+  background: linear-gradient(135deg, #64748b, #94a3b8, #cbd5e1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transition: transform 0.2s ease, background 0.2s ease;
+  display: block;
+}
+
+.skill-card:hover .skill-card__icon {
+  transform: translateY(-2px) scale(1.05);
+  background: linear-gradient(135deg, #3b82f6, #60a5fa, #93c5fd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.skill-card__name {
+  margin-bottom: 0.3rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.skill-card__level {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  margin: 0;
+  font-weight: 500;
+}
+
+/* Animation keyframes */
+@keyframes scroll-belt-infinite {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-50%));
+  }
+}
+
+/* Remove hover pause - belt keeps moving */
+/* Removed: .skills-carousel-container:hover .skills-carousel-belt */
+
+/* Gradient overlays for smooth edges */
+.skills-carousel-container::before,
+.skills-carousel-container::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 100px;
+  height: 100%;
+  z-index: 20;
+  pointer-events: none;
+}
+
+.skills-carousel-container::before {
+  left: 0;
+  background: linear-gradient(to right, var(--bg-color), transparent);
+}
+
+.skills-carousel-container::after {
+  right: 0;
+  background: linear-gradient(to left, var(--bg-color), transparent);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .skills-carousel-container {
+    height: 160px;
+  }
+  
+  .skill-card {
+    flex: 0 0 150px;
+    height: 120px;
+    padding: 1rem;
+  }
+  
+  .skill-card__icon {
+    font-size: 1.8rem;
+    margin-bottom: 0.4rem;
+  }
+  
+  .skill-card__name {
+    font-size: 0.9rem;
+  }
+  
+  .skill-card__level {
+    font-size: 0.75rem;
+  }
+  
+  .skills-carousel-belt {
+    gap: 1rem;
+    animation: scroll-belt-infinite 25s linear infinite;
+  }
+}
+
+@media (max-width: 480px) {
+  .skills-carousel-container {
+    height: 140px;
+  }
+  
+  .skill-card {
+    flex: 0 0 130px;
+    height: 100px;
+    padding: 0.8rem;
+  }
+  
+  .skill-card__icon {
+    font-size: 1.6rem;
+  }
+  
+  .skills-carousel-belt {
+    animation: scroll-belt-infinite 20s linear infinite;
+  }
+}
+
 /* Projects Section */
 .projects-grid {
   display: grid;
