@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <defs>
+    <!-- Glitch effect filters for larger size -->
+    <filter id="glitch1">
+      <feOffset in="SourceGraphic" dx="3" dy="0" result="offset1"/>
+      <feFlood flood-color="#00ff41" flood-opacity="0.6"/>
+      <feComposite in2="offset1" operator="in"/>
+    </filter>
+    
+    <filter id="glitch2">
+      <feOffset in="SourceGraphic" dx="-3" dy="0" result="offset2"/>
+      <feFlood flood-color="#ff0080" flood-opacity="0.6"/>
+      <feComposite in2="offset2" operator="in"/>
+    </filter>
+    
+    <filter id="glitch3">
+      <feOffset in="SourceGraphic" dx="0" dy="3" result="offset3"/>
+      <feFlood flood-color="#0080ff" flood-opacity="0.4"/>
+      <feComposite in2="offset3" operator="in"/>
+    </filter>
+  </defs>
+  
+  <!-- Black square background with rounded corners -->
+  <rect x="0" y="0" width="180" height="180" rx="25" ry="25" fill="#000000"/>
+  
+  <!-- Glitch layers for "Bernard" text -->
+  <text x="90" y="105" 
+        font-family="'JetBrains Mono', 'Courier New', monospace" 
+        font-size="32" 
+        font-weight="900" 
+        text-anchor="middle" 
+        fill="#00ff41" 
+        filter="url(#glitch1)"
+        opacity="0.7">Bernard</text>
+        
+  <text x="90" y="105" 
+        font-family="'JetBrains Mono', 'Courier New', monospace" 
+        font-size="32" 
+        font-weight="900" 
+        text-anchor="middle" 
+        fill="#ff0080" 
+        filter="url(#glitch2)"
+        opacity="0.7">Bernard</text>
+        
+  <text x="90" y="105" 
+        font-family="'JetBrains Mono', 'Courier New', monospace" 
+        font-size="32" 
+        font-weight="900" 
+        text-anchor="middle" 
+        fill="#0080ff" 
+        filter="url(#glitch3)"
+        opacity="0.5">Bernard</text>
+  
+  <!-- Main "Bernard" text -->
+  <text x="90" y="105" 
+        font-family="'JetBrains Mono', 'Courier New', monospace" 
+        font-size="32" 
+        font-weight="900" 
+        text-anchor="middle" 
+        fill="#ffffff">Bernard</text>
+        
+  <!-- Additional glitch rectangles for digital distortion -->
+  <rect x="20" y="50" width="140" height="2" fill="#00ff41" opacity="0.4"/>
+  <rect x="15" y="75" width="60" height="2" fill="#ff0080" opacity="0.6"/>
+  <rect x="105" y="85" width="50" height="2" fill="#0080ff" opacity="0.5"/>
+  <rect x="30" y="125" width="120" height="2" fill="#00ff41" opacity="0.3"/>
+  <rect x="100" y="140" width="45" height="2" fill="#ff0080" opacity="0.4"/>
+  
+  <!-- Vertical glitch lines -->
+  <rect x="40" y="40" width="2" height="20" fill="#0080ff" opacity="0.3"/>
+  <rect x="130" y="110" width="2" height="25" fill="#00ff41" opacity="0.4"/>
+  <rect x="65" y="90" width="2" height="15" fill="#ff0080" opacity="0.5"/>
+  <rect x="115" y="60" width="2" height="18" fill="#0080ff" opacity="0.4"/>
+</svg>
