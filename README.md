@@ -1,22 +1,35 @@
-<div align=center style="margin-bottom: 20px; color: #A9DBB8;">
-<h1><b>Hi there, I'm Doruk 👋</b></h1>
-</div>
+<div align="center">
 
-<div align="center" style="text-align: left; border-radius: 8px; border-top: 5px solid #fff; border-bottom: 5px solid #fff; padding-top: 10px;">
+# **Hi there, I'm Doruk** 👋
 
-<b>A Full-Stack Developer, focused on
-building scalable systems at the
-tech-finance intersection</b>
+**Full-Stack Developer** • Building at the Tech-Finance Intersection
 
 </div>
 
 <br>
 
-<div>
-<h2><b>Some of My Basics...</b></h2>
-</div>
+```ruby
+# doruk.rb - Because elegant code speaks louder than words
+class Developer
+  def initialize
+    @handle = "dorukaysor"
+    @passions = ["Scalable Systems", "Seamless UX", "Tech-Finance Innovation"]
+    @currently = "Exploring AI/ML • Contributing to Open-Source • Building Cool Stuff"
+  end
+  
+  def mission
+    "Crafting solutions that merge cutting-edge tech with real-world impact"
+  end
+end
 
-### **Languages <img src="https://cdn.simpleicons.org/javascript/000/fff" width="14"/>**
+dev = Developer.new
+```
+
+<br>
+
+## **Tech Arsenal**
+
+#### **Languages**
 
 > [![javascript](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=javascript&logoColor=f7df1e)](#)
 [![typescript](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=typescript&logoColor=3178C6)](#)
@@ -28,7 +41,9 @@ tech-finance intersection</b>
 [![crystal](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=crystal&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=go&logoColor=%2300add8.svg)](#)
 
-### **Frameworks <img src="https://cdn.simpleicons.org/framework/000/fff" width="14"/>**
+<details>
+<summary><b>Frameworks</b></summary>
+
 > **WEB & MOBILE DEV**
 > > [![nodejs](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=node.js&logoColor=6da55f)](#)
 [![svelte](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=svelte&logoColor=%23f1413d.svg)](#)
@@ -54,8 +69,11 @@ tech-finance intersection</b>
 [![pandas](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=pandas&logoColor=150458)](#)
 [![numpy](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=numpy&logoColor=4dabcf)](#)
 [![matplotlib](https://custom-icon-badges.demolab.com/badge/-%23000000.svg?style=flat-square&logo=matplotlib&logoColor=71d291)](#)
+</details>
 
-### **Tools <img src="https://cdn.simpleicons.org/mongoosedotws/000/fff" width="13"/>**
+<details>
+<summary><b>Tools</b></summary>
+
 > **VERSION CONTROL**
 > > [![git](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=git&logoColor=F05032)](#)
 [![github](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=github&logoColor=%23121011.svg)](#)
@@ -88,9 +106,14 @@ tech-finance intersection</b>
 [![digital ocean](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=digitalOcean&logoColor=%230167FF.svg)](#)
 [![heroku](https://img.shields.io/badge/-%23000000.svg?logo=heroku&logoColor=430098)](#)
 [![vercel](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=vercel&logoColor=%23000000.svg)](#)
+</details>
+
+<br>
+
 ---
 
 <div align="center">
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snk-dark.svg" />
@@ -99,9 +122,16 @@ tech-finance intersection</b>
 </picture>
 
 <br>
+<br>
+
+### **Let's Build Something Amazing Together** 🚀
 
 [![buymeacoffee](https://img.shields.io/badge/-%23000000.svg?style=square&logo=buymeacoffee&logoColor=FFDD00)](#)
 [![instagram](https://img.shields.io/badge/-%23000000.svg?style=square&logo=instagram&logoColor=E4405F)](#)
 [![gitlab](https://img.shields.io/badge/-%23000000.svg?style=square&logo=gitlab&logoColor=FC6D26)](#)
+
+<br>
+
+*"Code is poetry written in logic"* ✨
 
 </div>

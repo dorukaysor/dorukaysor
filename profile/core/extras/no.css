@@ -1,0 +1,201 @@
+/**
+ * Custom Alert System CSS
+ * Beautiful modal popup with smooth animations
+ */
+
+/* Alert Overlay */
+.custom-alert-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.custom-alert-overlay--show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.custom-alert-overlay--hide {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* Alert Container */
+.custom-alert {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  max-width: 420px;
+  width: 90%;
+  padding: 2rem;
+  position: relative;
+  transform: scale(0.9) translateY(20px);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.custom-alert-overlay--show .custom-alert {
+  transform: scale(1) translateY(0);
+}
+
+.custom-alert-overlay--hide .custom-alert {
+  transform: scale(0.95) translateY(10px);
+}
+
+/* Alert Icon */
+.custom-alert__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border-radius: 50%;
+  margin: 0 auto 1.5rem;
+  box-shadow: 0 8px 20px rgba(245, 158, 11, 0.3);
+}
+
+.custom-alert__icon i {
+  font-size: 1.5rem;
+  color: white;
+}
+
+/* Alert Content */
+.custom-alert__content {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.custom-alert__title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+.custom-alert__message {
+  font-size: 1rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Close Button */
+.custom-alert__close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.custom-alert__close-btn {
+  background: none;
+  border: none;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.875rem;
+}
+
+.custom-alert__close-btn:hover {
+  background: var(--border-color);
+  color: var(--text-color);
+  transform: scale(1.1);
+}
+
+.custom-alert__close-btn:active {
+  transform: scale(0.95);
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+  .custom-alert {
+    padding: 1.5rem;
+    margin: 1rem;
+  }
+
+  .custom-alert__icon {
+    width: 56px;
+    height: 56px;
+    margin-bottom: 1rem;
+  }
+
+  .custom-alert__icon i {
+    font-size: 1.25rem;
+  }
+
+  .custom-alert__title {
+    font-size: 1.25rem;
+  }
+
+  .custom-alert__message {
+    font-size: 0.9rem;
+  }
+}
+
+/* Animation for entrance */
+@keyframes alertSlideIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes alertSlideOut {
+  from {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: scale(0.95) translateY(10px);
+  }
+}
+
+/* Focus styles for accessibility */
+.custom-alert__close-btn:focus {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
+}
+
+/* Ensure alert is above everything */
+.custom-alert-overlay {
+  z-index: 99999;
+}
+
+/* Smooth backdrop blur animation */
+.custom-alert-overlay::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.1);
+  transition: background 0.3s ease;
+}
+
+.custom-alert-overlay--show::before {
+  background: rgba(0, 0, 0, 0.2);
+}
