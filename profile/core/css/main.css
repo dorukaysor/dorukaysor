@@ -28,6 +28,25 @@
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 80px; /* Account for fixed header */
+  /* Hide scrollbars but keep scrollability */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+/* Hide scrollbars for webkit browsers */
+body::-webkit-scrollbar,
+html::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+/* Hide scrollbars for Firefox */
+html {
+  scrollbar-width: none; /* Firefox */
+}
+
+body {
+  /* Hide scrollbars for IE and Edge */
+  -ms-overflow-style: none;
 }
 
 /* Respect user's motion preferences */
