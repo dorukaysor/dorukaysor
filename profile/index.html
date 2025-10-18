@@ -342,7 +342,7 @@
 
             <!-- Animated Skills Carousel Belt -->
             <div class="skills-carousel-container">
-              <div class="skills-carousel-belt">
+              <div class="skills-carousel-belt loading">
                 <!-- Core Skills Set -->
                 <div class="skill-card">
                   <div class="skill-card__icon">
@@ -615,7 +615,7 @@
             </div>
 
             <div class="projects-grid">
-              <div class="card project-card fade-in-up">
+              <div class="card project-card loading">
                 <div class="project-card__image">
                   <img
                     src="./assets/images/project1.jpg"
@@ -625,6 +625,7 @@
                     width="400"
                     height="250"
                   />
+                  <div class="skeleton-placeholder">🖼️ Loading Project Image...</div>
                 </div>
                 <div class="card__body">
                   <h3 class="project-card__title">Financial Dashboard</h3>
@@ -650,7 +651,7 @@
                 </div>
               </div>
 
-              <div class="card project-card fade-in-up">
+              <div class="card project-card loading">
                 <div class="project-card__image">
                   <img
                     src="./assets/images/project2.jpg"
@@ -660,6 +661,7 @@
                     width="400"
                     height="250"
                   />
+                  <div class="skeleton-placeholder">🖼️ Loading Project Image...</div>
                 </div>
                 <div class="card__body">
                   <h3 class="project-card__title">E-Commerce Platform</h3>
@@ -685,7 +687,7 @@
                 </div>
               </div>
 
-              <div class="card project-card fade-in-up">
+              <div class="card project-card loading">
                 <div class="project-card__image">
                   <img
                     src="./assets/images/project3.jpg"
@@ -695,7 +697,7 @@
                     width="400"
                     height="250"
                   />
-                  />
+                  <div class="skeleton-placeholder">🖼️ Loading Project Image...</div>
                 </div>
                 <div class="card__body">
                   <h3 class="project-card__title">AI-Powered Analytics</h3>
@@ -707,6 +709,111 @@
                     <span class="tag">Python</span>
                     <span class="tag">TensorFlow</span>
                     <span class="tag">FastAPI</span>
+                  </div>
+                  <div class="project-card__links">
+                    <a href="#" class="btn btn--sm btn--primary">
+                      <i class="fas fa-external-link-alt"></i>
+                      Live Demo
+                    </a>
+                    <a href="#" class="btn btn--sm btn--secondary">
+                      <i class="fab fa-github"></i>
+                      Code
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="card project-card loading">
+                <div class="project-card__image">
+                  <img
+                    src="./assets/images/project4.jpg"
+                    alt="Project 4"
+                    loading="lazy"
+                    decoding="async"
+                    width="400"
+                    height="250"
+                  />
+                  <div class="skeleton-placeholder">🖼️ Loading Project Image...</div>
+                </div>
+                <div class="card__body">
+                  <h3 class="project-card__title">Real-Time Chat App</h3>
+                  <p class="project-card__description">
+                    Modern real-time messaging application with video calls and file sharing capabilities.
+                  </p>
+                  <div class="project-card__tags">
+                    <span class="tag">React</span>
+                    <span class="tag">Socket.io</span>
+                    <span class="tag">WebRTC</span>
+                  </div>
+                  <div class="project-card__links">
+                    <a href="#" class="btn btn--sm btn--primary">
+                      <i class="fas fa-external-link-alt"></i>
+                      Live Demo
+                    </a>
+                    <a href="#" class="btn btn--sm btn--secondary">
+                      <i class="fab fa-github"></i>
+                      Code
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="card project-card loading">
+                <div class="project-card__image">
+                  <img
+                    src="./assets/images/project5.jpg"
+                    alt="Project 5"
+                    loading="lazy"
+                    decoding="async"
+                    width="400"
+                    height="250"
+                  />
+                  <div class="skeleton-placeholder">🖼️ Loading Project Image...</div>
+                </div>
+                <div class="card__body">
+                  <h3 class="project-card__title">DevOps Automation Suite</h3>
+                  <p class="project-card__description">
+                    Complete CI/CD pipeline automation with monitoring and deployment tools.
+                  </p>
+                  <div class="project-card__tags">
+                    <span class="tag">Docker</span>
+                    <span class="tag">Kubernetes</span>
+                    <span class="tag">Jenkins</span>
+                  </div>
+                  <div class="project-card__links">
+                    <a href="#" class="btn btn--sm btn--primary">
+                      <i class="fas fa-external-link-alt"></i>
+                      Live Demo
+                    </a>
+                    <a href="#" class="btn btn--sm btn--secondary">
+                      <i class="fab fa-github"></i>
+                      Code
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="card project-card loading">
+                <div class="project-card__image">
+                  <img
+                    src="./assets/images/project6.jpg"
+                    alt="Project 6"
+                    loading="lazy"
+                    decoding="async"
+                    width="400"
+                    height="250"
+                  />
+                  <div class="skeleton-placeholder">🖼️ Loading Project Image...</div>
+                </div>
+                <div class="card__body">
+                  <h3 class="project-card__title">Blockchain Wallet</h3>
+                  <p class="project-card__description">
+                    Secure cryptocurrency wallet with multi-chain support and DeFi integration.
+                  </p>
+                  <div class="project-card__tags">
+                    <span class="tag">Solidity</span>
+                    <span class="tag">Web3.js</span>
+                    <span class="tag">Ethereum</span>
                   </div>
                   <div class="project-card__links">
                     <a href="#" class="btn btn--sm btn--primary">
@@ -841,6 +948,9 @@
 
     <!-- Custom Cursor System -->
     <script src="./core/js/cursor.js" defer></script>
+
+    <!-- Loading Placeholders System -->
+    <script src="./core/js/loading-placeholders.js" defer></script>
 
     <!-- Performance Monitoring -->
     <script>

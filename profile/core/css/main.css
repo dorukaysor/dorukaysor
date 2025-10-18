@@ -37,6 +37,267 @@ html {
   }
 }
 
+/* Fade-in animation for elements */
+.card, .skill-item, .project-card {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.card.fade-in, .skill-item.fade-in, .project-card.fade-in {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Skeleton Loading Placeholders */
+.skeleton {
+  background: linear-gradient(90deg, #1a1a1a 25%, #2a2a2a 50%, #1a1a1a 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+  border-radius: 4px;
+}
+
+.skeleton-text {
+  height: 1rem;
+  margin: 0.5rem 0;
+}
+
+.skeleton-text.title {
+  height: 1.5rem;
+  width: 60%;
+}
+
+.skeleton-text.subtitle {
+  height: 1rem;
+  width: 80%;
+}
+
+.skeleton-text.paragraph {
+  height: 0.875rem;
+  width: 100%;
+}
+
+.skeleton-image {
+  background: #1a1a1a;
+  border: 2px dashed #444;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  font-size: 2rem;
+  position: relative;
+}
+
+.skeleton-image::before {
+  content: "📷";
+  opacity: 0.5;
+}
+
+.skeleton-image::after {
+  content: "Loading...";
+  position: absolute;
+  bottom: 10px;
+  font-size: 0.875rem;
+  color: #888;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* Project Card Skeleton */
+.project-card.loading .project-card__image {
+  background: #1a1a1a;
+  border: 2px dashed #444;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  font-size: 3rem;
+  min-height: 250px;
+  position: relative;
+}
+
+.project-card.loading .project-card__image img {
+  display: none !important;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.project-card:not(.loading) .project-card__image img {
+  display: block !important;
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.project-card.loading .project-card__image::before {
+  content: "🖼️ LOADING IMAGE...";
+  font-size: 1rem;
+  color: #888;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.project-card.loading .project-card__title {
+  background: linear-gradient(90deg, #1a1a1a 25%, #2a2a2a 50%, #1a1a1a 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+  height: 1.5rem;
+  border-radius: 4px;
+  color: transparent;
+}
+
+.project-card.loading .project-card__description {
+  background: linear-gradient(90deg, #1a1a1a 25%, #2a2a2a 50%, #1a1a1a 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+  height: 3rem;
+  border-radius: 4px;
+  color: transparent;
+  margin: 1rem 0;
+}
+
+/* Skills Skeleton */
+.skills-carousel-belt.loading .skill-card {
+  background: #1a1a1a;
+  border: 2px dashed #444;
+}
+
+.skills-carousel-belt.loading .skill-card__icon {
+  background: linear-gradient(90deg, #1a1a1a 25%, #2a2a2a 50%, #1a1a1a 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+}
+
+.skills-carousel-belt.loading .skill-card__icon i {
+  opacity: 0;
+}
+
+.skills-carousel-belt.loading .skill-card__name {
+  background: linear-gradient(90deg, #1a1a1a 25%, #2a2a2a 50%, #1a1a1a 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+  height: 1rem;
+  border-radius: 4px;
+  color: transparent;
+}
+
+.skills-carousel-belt.loading .skill-card__level {
+  background: linear-gradient(90deg, #1a1a1a 25%, #2a2a2a 50%, #1a1a1a 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+  height: 0.875rem;
+  border-radius: 4px;
+  color: transparent;
+  width: 80%;
+  margin: 0 auto;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
+}
+
+/* Glaring Loading Placeholders */
+.skeleton-placeholder {
+  background: linear-gradient(45deg, #ff6b6b, #ffd93d, #6bcf7f, #4d96ff);
+  background-size: 400% 400%;
+  animation: rainbow-shimmer 2s ease-in-out infinite;
+  color: #000;
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 2rem;
+  border: 3px dashed #fff;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 250px;
+  position: relative;
+  overflow: hidden;
+}
+
+.skeleton-placeholder::before {
+  content: "⚡ LOADING ⚡";
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #000;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  animation: bounce 1s ease-in-out infinite;
+}
+
+@keyframes rainbow-shimmer {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50% { transform: translateX(-50%) translateY(-10px); }
+}
+
+/* Loading Banner Styles */
+.loading-banner {
+  animation: loading-flash 1s ease-in-out infinite alternate;
+}
+
+.loading-banner-content {
+  text-align: center;
+  padding: 2rem;
+}
+
+.loading-banner h3 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.loading-banner p {
+  font-size: 1.2rem;
+  opacity: 0.8;
+}
+
+.loading-spinner {
+  width: 60px;
+  height: 60px;
+  border: 4px solid rgba(255, 107, 107, 0.3);
+  border-top: 4px solid #ff6b6b;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: 0 auto 1rem;
+}
+
+@keyframes loading-flash {
+  0% { border-color: #ff6b6b; background: rgba(255, 107, 107, 0.1); }
+  100% { border-color: #ffd93d; background: rgba(255, 217, 61, 0.1); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Skills cards should be visible by default for the carousel animation */
+.skill-card {
+  opacity: 1;
+  transform: none;
+}
+
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background-color: var(--bg-color);

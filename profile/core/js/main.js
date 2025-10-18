@@ -85,24 +85,26 @@ class Portfolio {
     });
   }
 
-  // Intersection Observer for Animations
+  // Smooth Animation System (Enhanced)
   setupAnimations() {
+    // Setup fade-in animations for elements coming into view
     const observerOptions = {
       threshold: 0.1,
-      rootMargin: '0px 0px -50px 0px'
+      rootMargin: '0px 0px -100px 0px'
     };
 
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
-          entry.target.classList.add('fade-in-up');
+          entry.target.classList.add('fade-in');
           observer.unobserve(entry.target);
         }
       });
     }, observerOptions);
 
-    // Observe elements that should animate
-    document.querySelectorAll('.card, .skill-item, .project-card').forEach(el => {
+    // Add smooth reveal classes to elements (excluding skill-card which has its own animation)
+    const elements = document.querySelectorAll('.card, .skill-item, .project-card');
+    elements.forEach(el => {
       observer.observe(el);
     });
   }

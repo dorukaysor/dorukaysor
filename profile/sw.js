@@ -1,4 +1,4 @@
-// Service Worker for Bernard's Portfolio
+// Service Worker
 const CACHE_NAME = 'bernard-portfolio-v1';
 const urlsToCache = [
   '/',
