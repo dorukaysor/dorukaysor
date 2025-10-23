@@ -2,7 +2,10 @@
 
 # **Hi there, I'm Doruk** 👋
 
-**Full-Stack Developer** • Building at the Tech-Finance Intersection
+**Full-Stack Dev.** & A Decent **Web Tech.** • Building at the Tech-Finance Intersection
+```sh
+Web Tech. doesn't mean that I'm a spider!
+```
 
 </div>
 
@@ -13,12 +16,13 @@
 class Developer
   def initialize
     @handle = "dorukaysor"
-    @passions = ["Scalable Systems", "Seamless UX", "Tech-Finance Innovation"]
+    @profession = "student"
+    @passions = ["Scalable Systems", "Seamless UI/UX", "Web Techologies", "Tech-Finance Innovation"]
     @currently = "Exploring AI/ML • Contributing to Open-Source • Building Cool Stuff"
   end
   
   def mission
-    "Crafting solutions that merge cutting-edge tech with real-world impact"
+    "Crafting solutions that merge cutting-edge tech with real-world impact!"
   end
 end
 
@@ -38,7 +42,6 @@ dev = Developer.new
 [![elixir](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=elixir&logoColor=4b275f)](#)
 [![swift](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=swift&logoColor=F54a2a)](#)
 [![bash](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=gnubash&logoColor=4eaa25)](#)
-[![crystal](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=crystal&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=go&logoColor=%2300add8.svg)](#)
 
 <details>
@@ -58,9 +61,7 @@ dev = Developer.new
 > > [![django](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=django&logoColor=fff)](#)
 [![flask](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=flask&logoColor=fff)](#)
 [![ruby on rails](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=ruby-on-rails&logoColor=CC0000)](#)
-[![.net](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=dotnet&logoColor=512BD4)](#)
 [![nestjs](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=nestjs&logoColor=E0234E)](#)
-[![fast api](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=fastapi&logoColor=009485.svg)](#)
 [![laravel](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=laravel&logoColor=%23FF2D20.svg)](#)
 
 > **AI/ML & DATA**
@@ -96,9 +97,7 @@ dev = Developer.new
 > **DEVOPS & INFRA**
 >  > [![docker](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=docker&logoColor=2496ED)](#)
 [![kubernetes](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=kubernetes&logoColor=326CE5)](#)
-[![jenkins](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=jenkins&logoColor=D24939)](#)
 [![github actions](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=github-actions&logoColor=2088FF)](#)
-[![terraform](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=terraform&logoColor=844FBA)](#)
 
 > **CLOUD PROVIDERS**
 >  > [![microsoft azure](https://custom-icon-badges.demolab.com/badge/-%23000000.svg?style=flat-square&logo=msazure&logoColor=0089D6)](#)
