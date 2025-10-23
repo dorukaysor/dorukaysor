@@ -13,7 +13,7 @@ Web Tech. doesn't mean that I'm a spider!
 
 ```ruby
 # doruk.rb - Because elegant code speaks louder than words
-class Developer
+class Me
   def initialize
     @handle = "dorukaysor"
     @profession = "student"
@@ -26,7 +26,7 @@ class Developer
   end
 end
 
-dev = Developer.new
+dev = Me.new
 ```
 
 <br>
