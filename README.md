@@ -2,10 +2,7 @@
 
 # **Hi there, I'm Doruk** 👋
 
-**Full-Stack Dev.** & A Decent **Web Tech.** • Building at the Tech-Finance Intersection
-```sh
-Web Tech. doesn't mean that I'm a spider!
-```
+**Full-Stack Dev.** & A Decent **Web Dev.** • Building at the Tech-Finance Intersection
 
 </div>
 
