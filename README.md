@@ -134,7 +134,12 @@ dev = Ethan.new
 ### **Let's Build Something Amazing Together** 🚀
 
 [![buymeacoffee](https://img.shields.io/badge/-%23000000.svg?style=square&logo=buymeacoffee&logoColor=FFDD00)](#)
-[![instagram](https://img.shields.io/badge/-%23000000.svg?style=square&logo=instagram&logoColor=E4405F)](#)
+[![instagram](https://img.shields.io/badge/-%23000000.svg?style=square&logo=instagram&logoColor=E4405F)](https://instagram.com/dorukaysor?target=_blank)
+
+<a href="https://instagram.com/dorukaysor" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-%23000000.svg?style=square&logo=instagram&logoColor=E4405F" />
+</a>
+
 [![gitlab](https://img.shields.io/badge/-%23000000.svg?style=square&logo=gitlab&logoColor=FC6D26)](#)
 
 <br>
