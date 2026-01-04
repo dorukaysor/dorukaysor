@@ -2,20 +2,31 @@
 
 # **Hi there, I'm Doruk** 👋
 
-**Full-Stack Dev.** & A Decent **Web Dev.** • Building at the Tech-Finance Intersection
+**Full-Stack Dev.** & A Decent **Web Dev.**  
+Building at the Tech-Finance Intersection
 
 </div>
 
 <br>
 
 ```ruby
-# doruk.rb - Because elegant code speaks louder than words
-class Me
+# me.rb - Because elegant code speaks louder than words
+class Ethan
   def initialize
     @handle = "dorukaysor"
     @profession = "student"
-    @passions = ["Scalable Systems", "Seamless UI/UX", "Web Techologies", "Tech-Finance Innovation"]
-    @currently = "Exploring AI/ML • Contributing to Open-Source • Building Cool Stuff"
+    @work = "freelancer"
+    @passions = [
+      "Scalable Systems",
+      "Seamless UI/UX",
+      "Web Techologies",
+      "Tech-Finance Innovation"
+    ]
+    @currently = [
+      "Exploring AI/ML",
+      "Contributing to Open-Source",
+      "Building Cool Stuff"
+    ]
   end
   
   def mission
@@ -23,7 +34,7 @@ class Me
   end
 end
 
-dev = Me.new
+dev = Ethan.new
 ```
 
 <br>
