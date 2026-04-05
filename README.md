@@ -2,8 +2,7 @@
 
 # **Hi there, I'm Doruk** 👋
 
-**Full-Stack Dev.** & A Decent **Web Dev.**  
-Building at the Tech-Finance Intersection
+A *Full-Stack Developer* - Building at the Tech-Finance Intersection
 
 </div>
 
