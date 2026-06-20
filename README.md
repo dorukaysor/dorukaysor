@@ -38,19 +38,6 @@ IoT/embedded systems on the side
 
 <br/>
 
-## >> GitHub Stats
-
-<div align="center">
-
-![most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukaysor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-<br/>
-
-![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dorukaysor&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF)
-
-</div>
-
-<br/>
-
 ## >> Let's Build Something Amazing Together
 
 
