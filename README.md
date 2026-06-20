@@ -5,8 +5,7 @@
 <br/>
 
 ```
-A Full-stack web developer
-IoT/embedded systems on the side
+A Full-stack web developer - IoT/embedded systems on the side
 ```
 
 </div>
