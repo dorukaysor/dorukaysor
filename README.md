@@ -33,8 +33,7 @@ const myself = {
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/dorukaysor)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:dorukaysor@gmail.com)
 
-```
-Weaver of pixels, binder of logic. I forge the bridge between the void of the backend and the vision of the client.
-```
+
+*"Weaver of pixels, binder of logic. I forge the bridge between the void of the backend and the vision of the client."*
 
 </div>
