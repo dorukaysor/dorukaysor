@@ -3,7 +3,7 @@
 # Hey, I'm Doruk 👋
 
 ```
-Frontend-focused developer and Computer Engineering student, building with React and Astro.
+Frontend-focused developer and Computer Engineering student, building with NextJS & TypeScript.
 ```
 
 </div>
