@@ -20,12 +20,12 @@ const myself = {
   daily: ['TypeScript', 'React.js', 'Next.js', 'Astro', 'Tailwind CSS', 'Supabase'],
   comfortable: ['Node.js', 'Git', 'PostgreSQL', 'Figma', 'Postman', 'Linux'],
   embedded: ['ESP32', 'Arduino'],
-  learning: ['Next.js', 'Docker', 'Express', 'Three.js', 'AWS', 'Kubernetes'],
+  learning: ['Docker', 'Express', 'Three.js', 'AWS', 'Kubernetes'],
   alsoWrite: ['JavaScript', 'Python', 'Java'],
 };
 ```
 
-## **><** Lets Build something together
+## **><** Let's Build something together
 
 <div align="center">
 
